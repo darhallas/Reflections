@@ -13,6 +13,10 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	You can check the differences between the file in the staging area and the latest file
+	that has been commited. You can also check the difference between the file in the staging
+	area compared to the one in the working directory.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
